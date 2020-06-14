@@ -1,4 +1,4 @@
-# Test cases for "Splash" screen #
+#Test cases for "Splash" screen#
 <table>
     <tr>
         <td>Test Case ID</td>
@@ -37,7 +37,9 @@
         <td>Hadeel</td>
     </tr>
 </table>
-# Test cases for "Main" screen #
+
+#Test cases for "Main" screen#
+
 <table>
     <tr>
         <td>Test Case ID</td>
@@ -114,7 +116,7 @@
     </tr>
 </table>
 
-# Test cases for "Matches" screen #
+#Test cases for "Matches" screen#
 
 <table>
     <tr>
@@ -190,7 +192,9 @@
         <td>Hadeel</td>
     </tr>
 </table>
-# Test cases for "Championships" screen #
+
+#Test cases for "Championships" screen#
+
 <table>
     <tr>
         <td>Test Case ID</td>
@@ -253,7 +257,9 @@
         <td>Hadeel</td>
     </tr>
 </table>
-# Test cases for "Your Teams" screen #
+
+#Test cases for "Your Teams" screen#
+
 <table>
     <tr>
         <td>Test Case ID</td>
@@ -316,7 +322,9 @@
         <td>Hadeel</td>
     </tr>
 </table>
-# Test cases for "News" screen #
+
+#Test cases for "News" screen#
+
 <table>
     <tr>
         <td>Test Case ID</td>
@@ -382,7 +390,9 @@
         <td></td>
     </tr>
 </table>
-# Test cases for "Push Notification" #
+
+#Test cases for Push Notification#
+
 <table>
     <tr>
         <td>Test Case ID</td>
@@ -434,7 +444,8 @@
     </tr>
 </table>
 
-# Mobile application generic test cases #
+#Mobile application generic test cases#
+
 <table>
     <tr>
         <td>Test Case ID</td>
@@ -522,7 +533,7 @@
     </tr>
 </table>
 
-# Bug Report #
+#Bug Report#
 
 <table>
     <tr>
